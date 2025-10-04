@@ -9,6 +9,7 @@ No big setup, control all on screen (for now).
 - [ ] Add team logos
 - [ ] Add jammers 
 - [ ] Show who's lead
-- [ ] Make counter button directly editable 
+- [ ] Make counter button directly editable
+- [ ] persist changes in memory?
 - [ ] Support dark mode?
 - [ ] Winner screen?
